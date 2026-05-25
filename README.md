@@ -1,4 +1,16 @@
-## Hi there 👋
+# Welcome to Karuha Github 👋
+This is the GitHub page created by Karuha, the author of the Karunia Universe.
+## I'm...
+A student majoring in artificial intelligence.
+
+- <img src="Assets/univ/hallym.png" width="20" height="20"> [Div. of Software](https://sw.hallym.ac.kr/) at Hallym University (2023/03-2025/02)  
+- <img src="Assets/univ/hansung.png" width="20" height="20"> [Div. of Computer Engineering](https://hansung.ac.kr/CSE/index.do) at Hansung Univ. (2025/03-2026/02)  
+- <img src="Assets/univ/yonsei.png" width="20" height="20"> [Dept. of Artificial Intelligence](https://cais.yonsei.ac.kr/) at Yonsei Univ. (since 2026/03)  
+
+<br />
+
+## Introduction to Karunia Characters
+### 카루니아 캐릭터 설명 추가 예정
 
 <!--
 **Karuha12/Karuha12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
