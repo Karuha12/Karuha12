@@ -10,8 +10,23 @@ A student majoring in artificial intelligence.
 <br />
 
 ## Introduction to Karunia Characters
-### 카루니아 캐릭터 설명 추가 예정
+### 1. Ruha 
+- <img src="Assets/char/ruha.png" width="400" height="400">
+- Icon: <img src="Assets/icon/ruha.svg" width="50" height="50">
+- Birthday: Mar 12
+- Height: 185cm
+- Weight: 70kg
+- Shoe size: 285mm
+- Symbol: Tree 🌲
 
+### 2. Rina
+- <img src="Assets/char/rina.png" width="400" height="400">
+- Icon: <img src="Assets/icon/rina.svg" width="50" height="50">
+- Birthday: Apr 17
+- Height: 170cm
+- Weight: 50kg
+- Shoe size: 250mm
+- Symbol: Flower 🌸
 <!--
 **Karuha12/Karuha12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
