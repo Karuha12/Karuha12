@@ -27,6 +27,15 @@ A student majoring in artificial intelligence.
 - Weight: 50kg
 - Shoe size: 250mm
 - Symbol: Flower 🌸
+
+### 3. Doha
+- <img src="Assets/char/doha.png" width="400" height="400">
+- Icon: <img src="Assets/icon/doha.svg" width="50" height="50">
+- Birthday: May 22
+- Height: 180cm
+- Weight: 65kg
+- Shoe size: 280mm
+- Symbol: Herb 🌿
 <!--
 **Karuha12/Karuha12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
