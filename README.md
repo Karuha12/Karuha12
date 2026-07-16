@@ -9,111 +9,18 @@ A student majoring in artificial intelligence.
 
 <br />
 
-## Introduction to Karunia Characters
-### 1. Ruha 
-- <img src="Assets/char/ruha.png" width="400" height="400">
-- Icon: <img src="Assets/icon/ruha.svg" width="50" height="50">
-- Birthday: Mar 12
-- Height: 185cm
-- Weight: 70kg
-- Shoe size: 285mm
-- Symbol: Tree 🌲
-
-### 2. Rina
-- <img src="Assets/char/rina.png" width="400" height="400">
-- Icon: <img src="Assets/icon/rina.svg" width="50" height="50">
-- Birthday: Apr 17
-- Height: 170cm
-- Weight: 50kg
-- Shoe size: 250mm
-- Symbol: Flower 🌸
-
-### 3. Doha
-- <img src="Assets/char/doha.png" width="400" height="400">
-- Icon: <img src="Assets/icon/doha.svg" width="50" height="50">
-- Birthday: May 22
-- Height: 180cm
-- Weight: 65kg
-- Shoe size: 280mm
-- Symbol: Herb 🌿
-
-### 4. Mina
-- <img src="Assets/char/mina.png" width="400" height="400">
-- Icon: <img src="Assets/icon/mina.svg" width="50" height="50">
-- Birthday: Jun 27
-- Height: 165cm
-- Weight: 50kg
-- Shoe size: 245mm
-- Symbol: Honey 🍯
-
-### 5. Yuha
-- <img src="Assets/char/yuha.png" width="400" height="400">
-- Icon: <img src="Assets/icon/yuha.svg" width="50" height="50">
-- Birthday: Jul 2
-- Height: 165cm
-- Weight: 47kg
-- Shoe size: 245mm
-- Symbol: Orange 🍊
-
-### 6. Jiyu
-- <img src="Assets/char/jiyu.png" width="400" height="400">
-- Icon: <img src="Assets/icon/jiyu.svg" width="50" height="50">
-- Birthday: Aug 7
-- Height: 175cm
-- Weight: 65kg
-- Shoe size: 275mm
-- Symbol: Chocolate 🍫
-
-### 7. Haru
-- <img src="Assets/char/haru.png" width="400" height="400">
-- Icon: <img src="Assets/icon/haru.svg" width="50" height="50">
-- Birthday: Sep 12
-- Height: 165cm
-- Weight: 47kg
-- Shoe size: 245mm
-- Symbol: Strawberry 🍓
-
-### 8. Maru
-- <img src="Assets/char/maru.png" width="400" height="400">
-- Icon: <img src="Assets/icon/maru.svg" width="50" height="50">
-- Birthday: Oct 17
-- Height: 180cm
-- Weight: 70kg
-- Shoe size: 280mm
-- Symbol: Blueberry 🫐
-
-### 9. Siyu
-- <img src="Assets/char/siyu.png" width="400" height="400">
-- Icon: <img src="Assets/icon/siyu.svg" width="50" height="50">
-- Birthday: Nov 22
-- Height: 175cm
-- Weight: 60kg
-- Shoe size: 275mm
-- Symbol: Tea 🍵
-
-### 10. Mika
-- <img src="Assets/char/mika.png" width="400" height="400">
-- Icon: <img src="Assets/icon/mika.svg" width="50" height="50">
-- Birthday: Dec 27
-- Height: 165cm
-- Weight: 50kg
-- Shoe size: 245mm
-- Symbol: Milk 🥛
-
-### 11. Yumi
-- <img src="Assets/char/yumi.png" width="400" height="400">
-- Icon: <img src="Assets/icon/yumi.svg" width="50" height="50">
-- Birthday: Jan 2
-- Height: 160cm
-- Weight: 47kg
-- Shoe size: 240mm
-- Symbol: Caramel 🍬
-
-### 12. Yuna
-- <img src="Assets/char/yuna.png" width="400" height="400">
-- Icon: <img src="Assets/icon/yuna.svg" width="50" height="50">
-- Birthday: Feb 7
-- Height: 160cm
-- Weight: 44kg
-- Shoe size: 240mm
-- Symbol: Lemon 🍋
+## The Twelve Karunia Characters
+|Name|Icon|Portrait|Gender|Birthday|Body|Emoji|
+|---|---|---|---|---|---|---|
+|Ruha·루하·ルハ|<img src="Assets/icon/ruha.svg" width="50" height="50">|<img src="Assets/char/ruha.png" width="200" height="200">|Male|Mar 12|185cm·70kg·285mm|🌲|
+|Rina·리나·リナ|<img src="Assets/icon/rina.svg" width="50" height="50">|<img src="Assets/char/rina.png" width="200" height="200">|Female|Apr 17|170cm·50kg·250mm|🌸|
+|Doha·도하·ドハ|<img src="Assets/icon/doha.svg" width="50" height="50">|<img src="Assets/char/doha.png" width="200" height="200">|Male|May 22|180cm·65kg·280mm|🌿|
+|Mina·미나·ミナ|<img src="Assets/icon/mina.svg" width="50" height="50">|<img src="Assets/char/mina.png" width="200" height="200">|Female|Jun 27|165cm·50kg·245mm|🍯|
+|Yuha·유하·ユハ|<img src="Assets/icon/yuha.svg" width="50" height="50">|<img src="Assets/char/yuha.png" width="200" height="200">|Female|Jul 2|165cm·47kg·245mm|🍊|
+|Jiyu·지유·ジユ|<img src="Assets/icon/jiyu.svg" width="50" height="50">|<img src="Assets/char/jiyu.png" width="200" height="200">|Male|Aug 7|175cm·65kg·275mm|🍫|
+|Haru·하루·ハル|<img src="Assets/icon/haru.svg" width="50" height="50">|<img src="Assets/char/haru.png" width="200" height="200">|Female|Sep 12|165cm·47kg·245mm|🍓|
+|Maru·마루·マル|<img src="Assets/icon/maru.svg" width="50" height="50">|<img src="Assets/char/maru.png" width="200" height="200">|Male|Oct 17|180cm·70kg·280mm|🫐|
+|Siyu·시유·シユ|<img src="Assets/icon/siyu.svg" width="50" height="50">|<img src="Assets/char/siyu.png" width="200" height="200">|Male|Nov 22|175cm·60kg·275mm|🍵|
+|Mika·미카·ミカ|<img src="Assets/icon/mika.svg" width="50" height="50">|<img src="Assets/char/mika.png" width="200" height="200">|Female|Dec 27|165cm·50kg·245mm|🥛|
+|Yumi·유미·ユミ|<img src="Assets/icon/yumi.svg" width="50" height="50">|<img src="Assets/char/yumi.png" width="200" height="200">|Female|Jan 2|160cm·47kg·240mm|🍬|
+|Yuna·유나·ユナ|<img src="Assets/icon/yuna.svg" width="50" height="50">|<img src="Assets/char/yuna.png" width="200" height="200">|Female|Feb 7|160cm·44kg·240mm|🍋|
