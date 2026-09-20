@@ -11,7 +11,7 @@ A student majoring in artificial intelligence.
 
 ## The Twelve Karunia Characters
 
-<img src="Assets/char/karuniachar20260920.png" width="530">
+<img src="Assets/char/karuniachar20260920.png" width="500" height="700">
 
 |Name|Icon|Gender|Birthday|Body|Emoji|
 |---|---|---|---|---|---|
