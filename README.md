@@ -10,7 +10,9 @@ A student majoring in artificial intelligence.
 <br />
 
 ## The Twelve Karunia Characters
-<img src="Assets/char/karuniachar20260920.png" width="500" height="700">|
+
+<img src="Assets/char/karuniachar20260920.png" width="530">
+
 |Name|Icon|Gender|Birthday|Body|Emoji|
 |---|---|---|---|---|---|
 |Ruha·루하·ルハ|<img src="Assets/icon/ruha.svg" width="50" height="50">|Male|Mar 12|185cm·70kg·285mm|🌲|
